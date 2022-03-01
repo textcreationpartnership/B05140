@@ -1,0 +1,420 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration and order of His Highnes Councill in Scotland, for the government thereof: concerning an ordinance of His Highnes, dated the eighth day of August, 1654. Whereunto is annexed the said ordinance.</title>
+            <author>Scotland. Privy Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05140</idno>
+            <idno type="STC">Wing S1012D</idno>
+            <idno type="STC">ESTC R183830</idno>
+            <idno type="EEBO-CITATION">51784636</idno>
+            <idno type="OCLC">ocm 51784636</idno>
+            <idno type="VID">175043</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05140)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175043)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2710:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration and order of His Highnes Councill in Scotland, for the government thereof: concerning an ordinance of His Highnes, dated the eighth day of August, 1654. Whereunto is annexed the said ordinance.</title>
+                  <author>Scotland. Privy Council.</author>
+               </titleStmt>
+               <extent>11 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Christopher Higgins ...,</publisher>
+                  <pubPlace>Edinburgh, :</pubPlace>
+                  <date>MDCLV. [1655]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Emanuel Dovvning, Cl. of the Council.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Universities and colleges --  Law and legislation --  Scotland --  Early works to 1800.</term>
+               <term>Education --  Law and legislation --  Scotland --  Early works to 1800.</term>
+               <term>Preaching --  Law and legislation --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:175043:1" rendition="simple:additions"/>
+            <pb facs="tcp:175043:1"/>
+            <pb facs="tcp:175043:2"/>
+            <pb facs="tcp:175043:2"/>
+            <p>A DECLARATION OF HIS HIGHNES COUNCIL IN SCOTLAND, For the
+GOVERNMENT thereof: CONCERNING AN ORDINANCE OF HIS HIGHNES, Dated the Eighth
+day of <hi>Auguſt,</hi> 1654. Whereunto is annexed the ſaid ORDINANCE.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Wedneſday <hi>the
+Seventeenth</hi> day <hi>of</hi> October, 1655.</date> At His Highneſſe
+Councill in EDINBURGH,</dateline>
+                        </opener>
+                        <p>ORdered, That this Declaration and Ordinance be
+forthwith Printed and Publiſhed.</p>
+                        <closer>
+                           <signed>EMANUEL DOWNING, <hi>Cl. of the
+Council.</hi>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>EDINBURGH, Printed by <hi>Chriſtopher Higgins,</hi> in
+<hi>Harts</hi>-Cloſe, over againſt the Trone-Church. MDCLV.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:175043:3"/>
+            <pb n="3" facs="tcp:175043:3"/>
+            <head>A DECLARATION OF HIS HIGHNES COUNCILL IN <hi>SCOTLAND,</hi>
+For the Government thereof: Concerning His Highnes Ordinance of the 8. of
+Auguſt, 1654.</head>
+            <p>
+               <seg rend="decorInit">H</seg>IS Highneſſe being throughly ſenſible, that
+whatſoever Vnion of Nations is made where the true Religion is not the
+foundation there<g ref="char:EOLhyphen"/>of, it will prove tottering and unſtable; Hath therefore
+expreſſely commanded his Councill here to endeavour the promoting the
+Preaching of the Go<g ref="char:EOLhyphen"/>ſpel, and the power of true Religion and Holineſſe;
+And to take care, That the uſuall Maintenance here be received and enjoyed by
+ſuch Miniſters as are of a holy and un<g ref="char:EOLhyphen"/>blameable converſation,
+diſpoſed to live peaceably under the preſent Government, and who for the
+Grace of God in them, and for their knowledge and utterance, are able and fit
+to preach the Goſpel, and ſhall be approved, according to an Ordinance of
+his Highneſs of the eight of <hi>Auguſt, 1654.</hi> entituled, <hi>An
+Ordinance for the better ſupport of the Univerſities in Scotland, and
+encouraging of Publick Preachers there;</hi> All which laying a double duty
+upon the ſaid Councill, to promote the true Religion in ſoundnes of Faith,
+and holines of Conver<g ref="char:EOLhyphen"/>ſation, They ſhal, through the aſſiſtance of
+the Lord, cheer<g ref="char:EOLhyphen"/>fully and induſtriouſly endeavor the ſame: but finding
+that the ſaid Ordinance of the eighth of <hi>Auguſt,</hi> by reaſon of
+the not acting of moſt of thoſe perſons mentioned therein, hath not been
+put in effectual execution, whereby the good inten<g ref="char:EOLhyphen"/>ded by his Highnes to this
+Nation, hath not been derived to them; they have thought fit to Declare, That
+as they ſhall give all juſt countenance and encouragement to the perſons
+<pb n="4" facs="tcp:175043:4"/>who ſhall certifie according
+to the ſaid Ordinance, and to the perſons ſo certified of; ſo if they
+ſhall not proceed there<g ref="char:EOLhyphen"/>in, but continue to delay the execution thereof, The
+ſaid Councill will eſteem themſelves obliged (by tyes not to be
+diſpenſed withall) to promote and ſet forward ſo good and neceſſary
+a Work, in ſuch ways as ſhall ſeem beſt to them to carry it on, both in
+diſcharge of their duties unto God, and obedience to his Highneſſe; And
+that all thoſe who are no<g ref="char:EOLhyphen"/>minated and concerned therein, may yet have a
+competent time to conſider how the ſaid Ordinance may be moſt
+effe<g ref="char:EOLhyphen"/>ctually purſued in this Iuncture of Affairs, and in order to thoſe
+good Ends, which therin are propoſed, the ſaid Coun<g ref="char:EOLhyphen"/>cil have fixed upon the
+firſt of <hi>December</hi> next, as the time be<g ref="char:EOLhyphen"/>fore which they deſire
+thoſe afore-mentioned in the ſaid Or<g ref="char:EOLhyphen"/>dinance, would proceed thereupon when
+occaſion is offered: And whereas there may be diverſe places where ſome
+per<g ref="char:EOLhyphen"/>ſons may have a freedom and willingneſſe to act upon the ſaid
+Ordinance, and yet cannot actually expreſs the ſame by reaſon no
+perſons in their Province within that time may ſtand in need of, or demand
+ſuch Certificates; It is there<g ref="char:EOLhyphen"/>fore deſired in ſuch caſes, that by the
+day above-ſpecified, All ſuch perſons would declare their readines to act
+when the opportunity ſhalbe preſented, whereby if a defect ſhould ap<g ref="char:EOLhyphen"/>pear
+for want of perſons to act, the ſaid Councill may ſpee<g ref="char:EOLhyphen"/>dily take care to
+ſupply it with other fit perſons who ſhal be willing to carry on that
+deſired Work: And becauſe the ſaid Ordinance of the eighth of
+<hi>Auguſt, 1654.</hi> hath not yet been Printed, and containing in it ſome
+other things relating to the better ſupport of the Vniverſities, and
+encouragement of Publick Preachers in <hi>Scotland,</hi> The Councill
+conceiving it not fit to ſever the parts of the ſaid Ordinance in the
+pub<g ref="char:EOLhyphen"/>lication thereof, Have appointed the whole Ordinance to be Printed
+herewith.</p>
+            <closer>
+               <dateline>Given at <hi>Edinburgh</hi>
+                  <date>the ſeventeenth day of <hi>October,
+1655.</hi>
+                  </date>
+               </dateline>
+               <signed>
+                  <hi>Signed in the Name and by Order of the Councill.
+<hi>BROGHILL,</hi> Preſident.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="ordinance">
+            <pb n="5" facs="tcp:175043:4"/>
+            <head>AN ORDINANCE For the better ſupport of the UNIVERSITIES IN
+<hi>SCOTLAND,</hi> And Encouragement of Publick PREACHERS there.</head>
+            <p>
+               <seg rend="decorInit">H</seg>IS Highneſſe the Lord Protector ta<g ref="char:EOLhyphen"/>king into
+conſideration the great ad<g ref="char:EOLhyphen"/>vantage which may redound to the People of this
+Commonwealth, inha<g ref="char:EOLhyphen"/>biting in <hi>Scotland,</hi> That the Vni<g ref="char:EOLhyphen"/>verſities there
+ſhould receive both countenance and encouragement, and be provided for with
+compe<g ref="char:EOLhyphen"/>tent maintenance for the Members of the ſaid Vni<g ref="char:EOLhyphen"/>verſities, for the
+better training up of Youth in Pi<g ref="char:EOLhyphen"/>ety and good Literature; Doth Ordain, and be
+it Ordained by his Highneſſe, by and with the conſent of his Council,
+that the Superiorities of all and ſin<g ref="char:EOLhyphen"/>gular the Lands belonging to the late
+Biſhoprick of <hi>Galloway,</hi> Abbacy of <hi>Tungland,</hi> Priory of
+<hi>Whit<g ref="char:EOLhyphen"/>horn,</hi> and Abbacy of <hi>Glenluce,</hi> And all other Lands
+annexed and appertaining to the ſaid Biſhoprick, together with all
+Few-Farmes, Few-Duties, Kains, Cuſtoms, and Caſualties thereunto
+be<g ref="char:EOLhyphen"/>longing, accrewing, or which ſhall accrew; As alſo the Superiorities of
+the whole Teinds, Parſonage <pb n="6" facs="tcp:175043:5"/>and
+Vicarage, Teind-Duties, and all other Du<g ref="char:EOLhyphen"/>ties of all and ſundry the Churches
+and Pariſhes of and belonging to the ſaid late Biſhoprick, Abbacy or
+Priory where ever the ſame lye, and by whatſo<g ref="char:EOLhyphen"/>ever Name or Deſignation
+the ſame be known, (ex<g ref="char:EOLhyphen"/>cepting the Superiority of the Deanry of the Chap<g ref="char:EOLhyphen"/>lin
+of <hi>Striveling</hi>) be, and are hereby, and ſhall from henceforth he
+adjudged, deemed, and taken to be gi<g ref="char:EOLhyphen"/>ven, granted, doted, mortified and
+diſpoſed to the Vniverſity of <hi>Glaſgow,</hi> and the Principal,
+Profeſ<g ref="char:EOLhyphen"/>ſors and Regents thereof, and their Succeſſors for ever, with
+power to the Principal, Profeſſors, and Regents of the ſaid Vniverſity,
+preſent and in time to come, and their Succeſſors, to receive
+Re<g ref="char:EOLhyphen"/>ſignations, Enter the Few-holders, Tenants, and all others formerly called
+Vaſſals of the ſaid late Biſhoprick, Abbacies and Priory, to their
+reſpec<g ref="char:EOLhyphen"/>tive Lands, by Charters of Reſignation, Confir<g ref="char:EOLhyphen"/>mation, or
+otherwiſe to Compound, Tranſact and Receive Fines and Compoſitions for
+the ſame, and to do all and every other Act and thing touching the ſame, as
+any Superior or Over-lord in <hi>Scotland</hi> may do to their Tenants and
+Few-holders, or others, commonly called Vaſſals, according to Law.</p>
+            <p>And be it further ordained by the Authority afore<g ref="char:EOLhyphen"/>ſaid, That
+for the better Encouragement of Stu<g ref="char:EOLhyphen"/>dents in the ſaid Vniverſity, the ſum
+of Two hun<g ref="char:EOLhyphen"/>dred Marks Sterling yearly ſhall be paid out of the firſt and
+readieſt of the Cuſtoms of <hi>Glaſgow</hi> to the Principal,
+Profeſſors, and Regents of the ſaid Vni<g ref="char:EOLhyphen"/>verſity of <hi>Glaſgow,</hi>
+and their Succeſſors for ever, or ſuch perſon or perſons as they
+ſhall from time to time appoint to receive the ſame, to be employed by them
+and their Order, for the education of pious and hopeful young men and Students
+of Theolo<g ref="char:EOLhyphen"/>gy and Phyloſophy in the ſaid Vniverſity; And
+<pb n="7" facs="tcp:175043:5"/>that the Collectors and
+Receivers of the ſaid Cu<g ref="char:EOLhyphen"/>ſtoms for the time being, ſhall pay the ſaid
+yearly ſum of Two hundred Marks Sterling, by Quar<g ref="char:EOLhyphen"/>terly Payments accordingly,
+and ſhall be allowed the ſame upon their Accompts; The firſt Payment to
+be made at or upon the firſt day of <hi>December</hi> next.</p>
+            <p>And be it further ordained by the Authority afore<g ref="char:EOLhyphen"/>ſaid, That
+the Superiorities of the Lands belong<g ref="char:EOLhyphen"/>ing to the late Biſhoprick of
+<hi>Aberdeen,</hi> that is to ſay, The Superiorities of the Lands of
+<hi>Aberdeen,</hi> formerly called the Barony of <hi>Aberdeen,</hi> of the
+Lands of <hi>Murthill, Fetterner, Clett, Tallieneſſell, Da<g ref="char:EOLhyphen"/>viot,
+Reine,</hi> and <hi>Beirſe,</hi> all lying within the Sheriff<g ref="char:EOLhyphen"/>dome of
+<hi>Aberdeen;</hi> As alſo the Lands of <hi>Fordice</hi> and
+<hi>Murtlawh,</hi> lying within the Sheriffedome of <hi>Bamff,</hi> together
+with the Superiority of the Acres of <hi>Old-Aberdeen,</hi> and of all other
+Lands, Tene<g ref="char:EOLhyphen"/>ments, Houſes, with the Appurtenances formerly belonging to the
+ſaid late Biſhoprick of <hi>Aberdeen,</hi> the Few-Farms, Few-Duties,
+Kains, Cuſtoms, Caſualties, Teins, Parſonage and Vicarage, Tend-Duties,
+and all other Duties of the Lands, Churches and Pariſhes aforeſaid;
+together with other Duties of the Church of <hi>Maucher</hi> and
+<hi>Nicho<g ref="char:EOLhyphen"/>las,</hi> and of all other Kirks and Pariſhes which for<g ref="char:EOLhyphen"/>merly
+belonged to the ſaid Biſhoprick; together, with the Tenths of the Salmon
+Fiſhing, and other Fiſhings upon the Waters of <hi>Dee</hi> and
+<hi>Done,</hi> or on the Sea, or any other places formerly belong<g ref="char:EOLhyphen"/>ing to the
+ſaid Biſhoprick, together with the whole Fruits, Teinds, Church-Rents, and
+other Du<g ref="char:EOLhyphen"/>ties any way belonging to the Temporality or Spi<g ref="char:EOLhyphen"/>rituality of the
+ſaid Biſhoprick be given, granted, doted, and mortified to the ſaid
+Vniverſity of <hi>Aber<g ref="char:EOLhyphen"/>deen,</hi> the Principals, Profeſſors, Regents and
+re<g ref="char:EOLhyphen"/>manent <pb n="8" facs="tcp:175043:6"/>Members thereof and
+their Succeſſors for ever, in manner following, (that is to ſay) To the
+Colledge of <hi>Old-Aberdeen</hi> two parts in three to be divided, And to the
+Colledge of <hi>New-Aberdeen</hi> one third part in three to be divided, with
+power to the Principals, Profeſſors, Regents, and remanent Members of the
+ſaid Vniverſity according to their Proportion and Diviſion aforeſaid,
+preſent and to come, and to their Succeſſors for ever, to receive
+Reſignations, enter the Few-holders, Tenants, and all others, formerly called
+Vaſſals, of the ſaid Biſhoprick Lands, and other the Premiſes, by
+Charters of Reſignation, Confirmation or other<g ref="char:EOLhyphen"/>wiſe to compound, tranſact
+and agree about the Fines and Compoſitions due for the ſame, and to receive
+and take up the ſame, And to do all and every other act and thing therein
+that any Supe<g ref="char:EOLhyphen"/>rior or Over-Lord in <hi>Scotland</hi> may do to their
+Few-holders, Tenants, and all others commonly called Vaſſals, according to
+Law in ſuch Caſes: And in reſpect of the Incompetency of the Maintenance
+of the Maſters, Profeſſors, and other the Mem<g ref="char:EOLhyphen"/>bers of the ſaid
+Vniverſity, and eſpecially of the ſaid Colledge of <hi>New-Aberdeen,</hi>
+Be it Ordained by the Authority aforeſaid, That the ſum of two hundred
+Marks Sterling by the year, out of the firſt and readieſt of the Cuſtomes
+of <hi>Aberdeen,</hi> ſhall be from henceforth paid unto the Principals,
+Pro<g ref="char:EOLhyphen"/>feſſors, and other the Members of the ſaid Vniver<g ref="char:EOLhyphen"/>ſity, and their
+Succeſſors for ever, or to ſuch perſon and perſons as they ſhall
+from time to time appoint to be paid Quarterly by even and equall portions to
+be imployed for the Augmentation of the proviſi<g ref="char:EOLhyphen"/>ons and maintenance of the
+Principals, Profeſſors, Regents, and Remanent Members of the ſaid
+Vniverſity of <hi>Aberdeen,</hi> in manner following, (that
+<pb n="9" facs="tcp:175043:6"/>is to ſay) two parts thereof
+to the ſaid Colledge of <hi>New-Aberdeen,</hi> and the other third part to
+the Col<g ref="char:EOLhyphen"/>ledge of <hi>Old-Aberdeen;</hi> And that the Collectors and Receivers
+of the ſaid Cuſtoms for the time being, ſhall pay the ſame accordingly:
+Provided always, That the Principals of either of the ſaid Colledges ſhall
+have twice as much added to their Proviſions out of the ſaid Augmentation
+or yearly ſum, as is added to the Proviſion of other Profeſſors and
+Members of the reſpective Colledges; The firſt Payment to be made at or on
+the firſt day of <hi>December</hi> next, and ſo from thenceforth
+Quarter<g ref="char:EOLhyphen"/>ly. And for the better Propagation of the Goſpel and Advancement of
+Godlineſs in <hi>Scotland,</hi> Be it Ordained by the Authority aforeſaid,
+That the Commiſſioners for Viſiting the Vniverſities, Col<g ref="char:EOLhyphen"/>ledges and
+Schools of Learning in <hi>Scotland,</hi> do take eſpeciall care, That none
+but Godly and Able men be Authorized by them to enjoy the Li<g ref="char:EOLhyphen"/>vings appointed
+for the Miniſtry in <hi>Scotland;</hi> And to that end, That reſpect be had
+to the Choice of the more ſober and Godly part of the People, al<g ref="char:EOLhyphen"/>though the
+ſame ſhould not prove to be the greater part; And that no Perſon ſhall
+be by them Au<g ref="char:EOLhyphen"/>thorized, or admitted into any ſuch Living or Be<g ref="char:EOLhyphen"/>nefice, but
+ſuch as ſhall be firſt Certified by the perſons hereafter named for the
+reſpective Pro<g ref="char:EOLhyphen"/>vinces hereafter mentioned, or any Four or more of them,
+whereof two to be Miniſters, to be a perſon of a holy and unblameable
+Converſation, diſpoſed to live peaceably under the preſent Go<g ref="char:EOLhyphen"/>vernment,
+And who for the Grace of GOD in him, and for his Knowledge and Vtterance is
+able and fit to Preach the Goſpel: Within the Provinces of <hi>Louthian,
+Mers,</hi> and <hi>Teviotdale,</hi> Ma<g ref="char:EOLhyphen"/>ſter <hi>Robert Traile,</hi> Maſter
+<hi>Alexander Levingſtone,</hi> 
+               <pb n="10" facs="tcp:175043:7"/>Maſter
+<hi>Gilbert Hall,</hi> Maſter <hi>John Scot,</hi> Maſter <hi>Ed<g ref="char:EOLhyphen"/>ward
+Jameſone,</hi> Maſter <hi>John Sinclare,</hi> Maſter <hi>John
+Levingſtone;</hi> Sir <hi>Archibald Johnſtone,</hi> Sir <hi>Andrew
+Ker,</hi> Colonel <hi>Gilbert Ker, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Dundas</hi> of
+<hi>Dud<g ref="char:EOLhyphen"/>diſtone.</hi> Within the Provinces of <hi>Dumfrieze</hi> and
+<hi>Galloway,</hi> Maſter <hi>Hugh Henderſon,</hi> Maſter <hi>Samuel
+Auſtine,</hi> Maſter <hi>Alexander Trumbel,</hi> Maſter <hi>Andrew
+Lawder,</hi> Maſter <hi>Samuel Rowe,</hi> Maſter <hi>William
+Ferguſon</hi> of <hi>Kaitlocke,</hi> Earle of <hi>Caſſilis, Alexander
+Gordoun</hi> of <hi>Knockgray.</hi> Within the Province of <hi>Glaſgow</hi>
+and <hi>Aire,</hi> Maſter <hi>John Carſtayres,</hi> Maſter <hi>Alexander
+Dunlap,</hi> Maſter <hi>John Nevay,</hi> Maſter <hi>Wil<g ref="char:EOLhyphen"/>liam Guthery,</hi>
+Maſter <hi>William Adayre,</hi> Maſter <hi>Tho<g ref="char:EOLhyphen"/>mas Willye,</hi> Maſter
+<hi>Patrick Colvile,</hi> Maſter <hi>Francis Ayrd,</hi> Maſter <hi>William
+Somervill,</hi> Maſter <hi>Patrick Gilleſpie,</hi> Sir <hi>George Maxwell,
+William Muyre</hi> of <hi>Glanderſtone,</hi> Maſter <hi>John Graham,</hi>
+Maſter <hi>John Spreule, George Porterfield.</hi> Within the Provinces of
+<hi>Perth, Fife,</hi> and <hi>Angus,</hi> Maſter <hi>James Guthery,</hi>
+Maſter <hi>Robert Blaire,</hi> Maſter <hi>Samuel Rutherford,</hi> Maſter
+<hi>Alexander Moncrieffe,</hi> Maſter <hi>James Simſon,</hi> Maſter
+<hi>William Oliphant,</hi> Maſter <hi>John Murray,</hi> Ma<g ref="char:EOLhyphen"/>ſter <hi>William
+Rait,</hi> Sir <hi>William Bruce, David Weemes</hi> of <hi>Fingask,</hi>
+Vicount of <hi>Arburchnet.</hi> Within the Provinces of be-north
+<hi>Angus,</hi> Maſter <hi>Robert Keith,</hi> Maſter <hi>Duncan
+Forbes,</hi> Maſter <hi>John Rowe,</hi> Maſter <hi>Nathaniel Martin,</hi>
+Maſter <hi>Joſeph Brody,</hi> Maſter <hi>John Menzies,</hi> The Lord
+<hi>Brody,</hi> The Laird of <hi>Eight,</hi> Earle of <hi>Southerland,
+Alexander Jeffrey,</hi> Maſter <hi>Wil<g ref="char:EOLhyphen"/>liam More,</hi> Maſter <hi>Andrew
+Cant.</hi>
+            </p>
+            <p>And be it further Ordained by the Authority aforeſaid, That
+the ſaid Commiſſioners do allow and provide out of the Treaſury of
+Vacant Sti<g ref="char:EOLhyphen"/>pends, or otherwiſe, as they ſhall think fit, a Competent
+Maintenance, for ſuch Miniſters who have Gathered Congregations in
+<hi>Scotland;</hi> And <pb n="11" facs="tcp:175043:7"/>to
+take care that the Stipends of the Parochial Churches there be imployed to the
+uſe of ſuch godly Miniſters as are free to Labour amongſt them, in the
+Way of the Churches of <hi>Scotland.</hi>
+            </p>
+            <p>And be it further Ordained by the Authority aforeſaid, That
+the ſaid Commiſſioners do take care, That ſuch of the Miniſters of
+that Nation as they ſhall finde to promote Godlineſſe, and to endeavour
+the ſuppreſſing of all Vngodlineſſe, and Scandalous Practices,
+whether in the Miniſtry or the People, do receive all due Encouragement and
+Aſſiſtance; And that they do oppoſe all ſuch as diſcountenance the
+Power of Godlineſſe, and are indulgent to ſuch as are Scandalous or
+Pro<g ref="char:EOLhyphen"/>phane.</p>
+            <closer>
+               <hi>Paſſed</hi>
+               <date>
+                  <hi>the Eighth of Auguſt, 1654.</hi>
+               </date>
+               <signed>
+                  <hi>HENRY SCOBEL, Cl. of the
+Council.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="license">
+            <opener>
+               <dateline>
+                  <date>Wedneſday the 17. of <hi>October,</hi>
+1655.</date> At His Highneſſes Council in EDINBURGH,</dateline>
+            </opener>
+            <p>ORdered, That this Declaration and Ordinance be forthwith
+Printed and Publiſhed.</p>
+            <closer>
+               <signed>EMANUEL DOVVNING, Cl. of the
+Council.</signed>
+            </closer>
+            <pb facs="tcp:175043:8"/>
+            <pb facs="tcp:175043:8"/>
+            <pb facs="tcp:175043:9"/>
+            <pb facs="tcp:175043:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
